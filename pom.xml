@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.pluralsight</groupId>
+<<<<<<< HEAD
     <artifactId>BedtimeStories.com</artifactId>
+=======
+    <artifactId>FamousQuotes.com</artifactId>
+>>>>>>> c57523bf8cfbc063ccc9ed6456fe0d171fcadd12
     <version>1.0-SNAPSHOT</version>
 
     <properties>
